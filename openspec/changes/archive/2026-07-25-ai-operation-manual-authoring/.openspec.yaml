@@ -1,0 +1,4 @@
+schema: spec-driven
+created: 2026-07-25
+goal: Build ManualPPT as a safe, auditable tool that turns verified browser
+  workflows into maintainable operation manuals.
